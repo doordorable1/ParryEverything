@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/YSH/Prefabs/@Managers.prefab.meta
+guid: 251a60238ce5c734096d9da5d2643c61
+PrefabImporter:
+  externalObjects: {}
+========
+guid: 6c8a49a6467742a4993e3a7824b67c2b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+>>>>>>>> Main_Test:Assets/KHS/3rd/Behavior Designer/Behavior Designer Samples/CTF/Scene/Scene/NavMesh.asset.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
